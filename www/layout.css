@@ -1,19 +1,19 @@
 .frameparent
 {
 	position:absolute;
- border: 0px none transparent;
-    padding: 0px;
-    overflow: hidden;
-		left:0;
-		top:0;
-		bottom:0;
-		right:0;
-	}
+  border: 0px none transparent;
+  padding: 0px;
+  overflow: hidden;
+	left:0;
+	top:0;
+	bottom:0;
+	right:0;
+}
 .courseframe
 {
- border: 0px none transparent;
-    padding: 0px;
-    overflow: hidden;
-	}
+  border: 0px none transparent;
+  padding: 0px;
+  overflow: hidden;
+}
 
 

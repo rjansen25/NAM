@@ -4,7 +4,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "nl.explain.shellmoerdijk"
-        version   = "1.1.15">
+        version   = "1.2.0">
 
     <name>Shell VT Moerdijk</name>
 
@@ -70,11 +70,11 @@
         <access origin="*" /> - a wildcard access tag allows access to all external resource.
 
         Otherwise, you can specify specific domains:
-    -->
     <access origin="*" />
-   <!--
+    -->
      <access origin="http://127.0.0.1*"/>
     <access origin="http://shellmoerdijk.veilig.tv"/> 
+   <!--
        <access origin="http://phonegap.com" />                    - allow any secure requests to http://honegap.com/
         <access origin="http://phonegap.com" subdomains="true" />  - same as above, but including subdomains, such as http://build.phonegap.com/
         <access origin="http://phonegap.com" browserOnly="true" /> - only allows http://phonegap.com to be opened by the child browser.
