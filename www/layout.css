@@ -1,4 +1,4 @@
-.courseframe
+.frameparent
 {
 	position:absolute;
  border: 0px none transparent;
@@ -9,4 +9,11 @@
 		bottom:0;
 		right:0;
 	}
+.courseframe
+{
+ border: 0px none transparent;
+    padding: 0px;
+    overflow: hidden;
+	}
+
 
