@@ -1,9 +1,12 @@
 .courseframe
 {
+	position:absolute;
  border: 0px none transparent;
     padding: 0px;
     overflow: hidden;
-	width:100%;
-	height:99%;
+		left:0;
+		top:0;
+		bottom:0;
+		right:0;
 	}
 
