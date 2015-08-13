@@ -55,8 +55,9 @@
 
     <!-- Define app icon for each platform. -->
     <icon src="logo_man.png" />
+    <icon src="logo_man_xxhdpi.png" gap:platform="android" gap:qualifier="xxhdpi" />
 
-    <!-- Define app splash screen for each platform. -->
+  <!-- Define app splash screen for each platform. -->
 
 <gap:splash src="res/screen/splash_ldpi.png" gap:platform="android" gap:density="ldpi" />
 <gap:splash src="res/screen/splash_mdpi.png" gap:platform="android" gap:density="mdpi" />
